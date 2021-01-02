@@ -1,0 +1,12 @@
+{
+  "name": "react_firebase",
+  "displayName": "react_firebase",
+  "expo": {
+    "name": "react_firebase",
+    "slug": "react_firebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
